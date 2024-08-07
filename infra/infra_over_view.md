@@ -17,7 +17,7 @@
         2. scheduler
         3. ETCD
         4. Controller Manager
-    2. Demon
+    2. Deamon
         1. kubelet
         2. k proxy
         3. ca
