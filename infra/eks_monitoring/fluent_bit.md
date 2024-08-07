@@ -46,5 +46,7 @@ kubectl get pods -n amazon-cloudwatch
 
 ### 추가 과제
 * 어떤 데이터를 수집해야 할까?
+![image](https://github.com/user-attachments/assets/7110e6a7-bc7d-42b2-9c8a-774e895e5c7f)
+
 * Controll Plane 로깅 설정 On EKS
     * EKS > 클러스터 이름 > 관찰성 > 컨트롤 플레인 로깅 섹션 > 로깅 관리 > 필요사항 설정 > 저장
