@@ -50,3 +50,10 @@ kubectl get pods -n amazon-cloudwatch
 
 * Controll Plane 로깅 설정 On EKS
     * EKS > 클러스터 이름 > 관찰성 > 컨트롤 플레인 로깅 섹션 > 로깅 관리 > 필요사항 설정 > 저장
+
+
+<br>
+
+
+###참고
+* Grafana에 대한 기술 지식 습득이 되기 전 로그를 보기위해 임시로 붙임. 사장 되는 기술스택
